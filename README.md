@@ -36,3 +36,18 @@ This is a simple To-Do List application that helps you organize and keep track o
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/your-to-do-list.git
+Navigate to the project folder:
+
+
+cd your-to-do-list
+Install dependencies:
+
+
+# Example for Node.js
+npm install
+Start the app:
+
+
+npm start
+Contributing
+Feel free to open issues or submit pull requests to improve the app!
