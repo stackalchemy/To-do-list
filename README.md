@@ -17,15 +17,16 @@ This is a simple To-Do List application that helps you organize and keep track o
 
 ## How to Use
 
-1. **Add a task:** Enter your task in the input box and click the "Add" button.
-2. **Mark as complete:** Click the checkbox next to a task to mark it as done.
+1. **Add a task:** Enter your task in the input box and click the "Add" button.  
+2. **Mark as complete:** Click the checkbox next to a task to mark it as done.  
 3. **Delete a task:** Click the trash icon next to a task to remove it.
 
 ---
 
 ## Tech Stack
 
-- html,css and javascript 
+- HTML, CSS , Javascript.
+-This project uses **GitHub Actions** to automate tasks like running tests and deploying the app whenever code is pushed to the repository. This helps keep the project stable and deployment smooth without manual effort.
 
 
 ---
@@ -36,18 +37,3 @@ This is a simple To-Do List application that helps you organize and keep track o
 
 ```bash
 git clone https://github.com/YOUR_USERNAME/your-to-do-list.git
-Navigate to the project folder:
-
-
-cd your-to-do-list
-Install dependencies:
-
-
-# Example for Node.js
-npm install
-Start the app:
-
-
-npm start
-Contributing
-Feel free to open issues or submit pull requests to improve the app!
