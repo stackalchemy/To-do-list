@@ -26,7 +26,7 @@ This is a simple To-Do List application that helps you organize and keep track o
 ## Tech Stack
 
 - HTML, CSS , Javascript.
--This project uses **GitHub Actions** to automate tasks like running tests and deploying the app whenever code is pushed to the repository. This helps keep the project stable and deployment smooth without manual effort.
+- This project uses **GitHub Actions** to automate tasks like running tests and deploying the app whenever code is pushed to the repository. This helps keep the project stable and deployment smooth without manual effort.
 
 
 ---
